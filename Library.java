@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-class Main {
+public class Library {
   
   public static void main (String[] args) {
     HashMap<String,Boolean> myBooks =  new HashMap<String,Boolean>();
